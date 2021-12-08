@@ -1,0 +1,4 @@
+IP 150.136.87.138
+IP FRONTEND 150.136.87.138/Frontend
+
+Dirección repositorio proyecto https://github.com/stdiazmt/Ciclo4Reto2.git
